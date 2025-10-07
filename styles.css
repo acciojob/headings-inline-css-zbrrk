@@ -1,17 +1,17 @@
 h1{
-	color:blue;
+	color:rgb(42, 122, 226);
 }
 h2{
-	color:red;
+	color:rgb(244, 67, 54);
 }
 h3{
-color: green;}
+color: rgb(76, 175, 80);}
 h4{
-	color:orange;
+	color:rgb(255, 152, 0);
 }
 h5{
-	color:grey;
+	color:rgb(96, 125, 139);
 }
 h6{
-	color:yellow;
+	color:rgb(255, 235, 59);
 }
